@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Tyler Quante",
-    "description":"I am a soon to be Computer Science graduate from Western Governors University.  I love learning about new technologies and building fun applications for my friends and I to use",
+    "description":"Computer Science graduate from Western Governors University.  I love learning about new technologies and building fun applications for my friends and I to use, and I especially love working with AWS and interesting APIs!",
     "image":"profilepic.jpg",
-    "bio":"Growing up in Cincinnati I attended Madeira High School where I earned a spot in National Honor Society my last two years.",
-    "contactmessage":"Feel free to get in contact with me.",
+    "bio":"After years of deliberating if I was smart enough to really try programming, I finally started realizing that nobody's great the first day.  We all struggle learning this ever evolving field, and the struggle is where growth happens.  I have enjoyed the 'Aha!' moments along the way and in a weird way even the mind-numbing bugs have their place in my heart.  Outside of software, I love spending time in the outdoors with friends either hiking, camping, climbing, or skiing, and as a Cincinnati native, Who Dey!",
+    "contactmessage":"Get in touch with me!",
     "email": "tyler.quante@gmail.com",
     "phone": "513-518-1792",
     "github":"https://github.com/Tyler778",
@@ -50,7 +50,7 @@
         "school":"Western Governors University",
         "degree":"Bachelor of Science, Computer Science",
         "graduated":"February 2022",
-        "description":"Discrete Mathematics II, OS for Programmers, and Data Structures & Algorithms II"
+        "description":"Discrete Mathematics II, OS for Programmers, and Data Structures & Algorithms II were favorite classes of mine as I studied the field of computer science.  I especially enjoyed learning about modern encryption."
       }      
     ],
     "certifications":[
@@ -62,6 +62,9 @@
       },
       {
         "name":"AWS Certified Cloud Practitioner"
+      },
+      {
+        "name":"AWS Solutions Architect Associate"
       },
       {
         "name":"ITILv4"
@@ -76,52 +79,64 @@
       {
         "company":"Shipping Program",
         "title":"Python, Greedy Algorithm, PyCharm",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Uses a popular greedy algorithm to deliver 40 packages of various time constraints to over 25 locations around the Salt Lake City area while only traveling 93 miles in 3 hours."
       },
       {
-        "company":"Global Scheduling Software",
-        "title":"Java, Microsoft SQL Server, JavaFX",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bird Bot for Discord",
+        "title":"Python, Geocoding API from Google, eBird API",
+        "description":"Allows users to check for nearby notable bird spottings of any location on earth using the power of multiple APIs."
       },
       {
-        "company":"Global Scheduling Software",
+        "company":"Realtime Stock Information",
         "title":"Java, Microsoft SQL Server, JavaFX",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Supplies the user live stock information based on private API data.  Includes PE ratios, balance sheet information, and daily movement."
       },
       {
-        "company":"Global Scheduling Software",
-        "title":"Java, Microsoft SQL Server, JavaFX",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Portfolio Website",
+        "title":"ReactJS, AWS S3, AWS Cloudfront, AWS Route53",
+        "description":"Website developed with React to display projects I'm proud of.  Hosted with AWS S3, Route53, and cached via Cloudfront which allows for certificate manaagement for https secure connection."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"AWS",
+        "level":"85%"
+      },
+      {
+        "name":"Github",
+        "level":"85%"
+      },
+      {
+        "name":"API Handling",
+        "level":"75%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"75%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Java",
+        "level":"75%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"JavaScript",
+        "level":"70%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"Docker",
+        "level":"65%"
       }
     ]
   },
