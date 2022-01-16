@@ -27,6 +27,16 @@ class Resume extends Component {
         </div>
       );
     });
+    const certifications = this.props.data.certifications.map(function (certifications) {
+      return (
+        <div key={certifications.name}>
+          <h3>{certifications.name}</h3>
+          <p className="info">
+
+          </p>
+        </div>
+      );
+    });
 
     const work = this.props.data.work.map(function (work) {
       return (
@@ -34,7 +44,6 @@ class Resume extends Component {
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
           <p>{work.description}</p>
         </div>
@@ -71,12 +80,26 @@ class Resume extends Component {
             </div>
           </div>
         </Slide>
+        <Slide left duration={1300}>
+          <div className="row education">
+            <div className="three columns header-col">
+              <h1>
+                <span>Certifications</span>
+              </h1>
+            </div>
 
+            <div className="nine columns main-col">
+              <div className="row item">
+                <div className="twelve columns">{certifications}</div>
+              </div>
+            </div>
+          </div>
+        </Slide>
         <Slide left duration={1300}>
           <div className="row work">
             <div className="three columns header-col">
               <h1>
-                <span>Work</span>
+                <span>Projects</span>
               </h1>
             </div>
 
