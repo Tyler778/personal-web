@@ -3,7 +3,7 @@
     "name":"Tyler Quante",
     "description":"Computer Science graduate from Western Governors University.  I love learning about new technologies and building fun applications for my friends and I to use, and I especially love working with AWS and interesting APIs!",
     "image":"profilepic.jpg",
-    "bio":"After years of deliberating if I was smart enough to really try programming, I finally started realizing that nobody's great the first day.  We all struggle learning this ever evolving field, and the struggle is where growth happens.  I have enjoyed the 'Aha!' moments along the way and in a weird way even the mind-numbing bugs have their place in my heart.  Outside of software, I love spending time in the outdoors with friends either hiking, camping, climbing, or skiing, and as a Cincinnati native, Who Dey!",
+    "bio":"After years of deliberating if I was smart enough to really try programming, I finally started realizing that nobody's great the first day.  We all struggle learning this ever evolving field, and the struggle is where growth happens.  I have enjoyed the 'Aha!' moments along the way, and in a weird way, even the mind-numbing bugs have their place in my heart.  Outside of software, I love spending time in the outdoors with friends either hiking, camping, climbing, or skiing, and as a Cincinnati native, Who Dey!",
     "contactmessage":"Get in touch with me!",
     "email": "tyler.quante@gmail.com",
     "phone": "513-518-1792",
@@ -55,19 +55,25 @@
     ],
     "certifications":[
       {
-        "name":"CompTIA A+"
+        "name":"CompTIA A+",
+        "date":"October 2021"
       },
       {
-        "name":"CompTIA Project+"
+        "name":"CompTIA Project+",
+        "date":"January 2021"
       },
       {
-        "name":"AWS Certified Cloud Practitioner"
+        "name":"AWS Certified Cloud Practitioner",
+        "date":"November 2021"
+        
       },
       {
-        "name":"AWS Solutions Architect Associate"
+        "name":"AWS Solutions Architect Associate",
+        "date":"February 2022"
       },
       {
-        "name":"ITILv4"
+        "name":"ITILv4",
+        "date":"October 2021"
       }
     ],
     "work":[

@@ -32,8 +32,10 @@ class Resume extends Component {
         <div key={certifications.name}>
           <h3>{certifications.name}</h3>
           <p className="info">
-
+          <em className="date">{certifications.date}</em>
           </p>
+          <p/>
+          
         </div>
       );
     });
