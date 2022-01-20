@@ -94,7 +94,7 @@
       },
       {
         "company":"Realtime Stock Information",
-        "title":"Java, Microsoft SQL Server, JavaFX",
+        "title":"Python, AlphaVantage API",
         "description":"Supplies the user live stock information based on private API data.  Includes PE ratios, balance sheet information, and daily movement."
       },
       {
